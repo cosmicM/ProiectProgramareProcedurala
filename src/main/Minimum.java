@@ -26,10 +26,7 @@ public class Minimum {
 		 
 	 small=a[i];
 	 }
-	 else {
-		 System.out.println("Invalid");
-	 }
-}
+ }
 	     
 	 System.out.println("Smallest of "+ n +" elements is = "+ small);
 	 }
