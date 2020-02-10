@@ -1,4 +1,4 @@
-package main;
+package main.hw2;
 
 import java.util.*;
 
@@ -24,7 +24,7 @@ public class SumOfDivisors {
 				else
 					result += (i + num / i); 
 			} 
-		} 
+		}		
 			return (result + 1); 
 	} 
 } 

@@ -1,4 +1,4 @@
-package main;
+package main.hw2;
 import java.util.*;
 
 public class EvenOdd {
@@ -18,6 +18,7 @@ public class EvenOdd {
 	        System.out.println("Entered number is even");
 	     else
 	        System.out.println("Entered number is odd");
+	    input.close();
 	  }
 	}
 

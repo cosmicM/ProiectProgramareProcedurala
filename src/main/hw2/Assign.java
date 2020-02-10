@@ -1,4 +1,4 @@
-package main;
+package main.hw2;
 
 public class Assign {
   public static void main(String[] args) {

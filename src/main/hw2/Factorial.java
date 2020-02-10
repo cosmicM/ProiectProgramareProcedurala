@@ -1,4 +1,4 @@
-package main;
+package main.hw2;
 import java.util.*;
 
 public class Factorial {
@@ -24,6 +24,7 @@ public class Factorial {
 		   		    }
        			 	    
 	   	    System.out.println("fact= " + fact);
+	   	    sc.close();
 	}
 }
 	

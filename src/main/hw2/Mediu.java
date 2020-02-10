@@ -1,4 +1,4 @@
-package main;
+package main.hw2;
 
 public class Mediu {
 	int x = 0; 

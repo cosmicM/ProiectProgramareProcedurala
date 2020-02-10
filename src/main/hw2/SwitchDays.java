@@ -1,4 +1,4 @@
-package main;
+package main.hw2;
 import java.util.Scanner;
 
 public class SwitchDays {
@@ -32,6 +32,7 @@ public class SwitchDays {
     			  break;
     	      default:
       	 		  System.out.println("Try to fit between options 1-7");
+      	 		  sc.close();
     	  } 
      }
 }
