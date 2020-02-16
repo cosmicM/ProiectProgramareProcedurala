@@ -29,6 +29,7 @@ public class Minimum {
  }
 	     
 	 System.out.println("Smallest of "+ n +" elements is = "+ small);
+	 sc.close();
 	 }
 }
 
