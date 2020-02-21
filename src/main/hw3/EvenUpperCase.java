@@ -19,6 +19,6 @@ public class EvenUpperCase {
         }
            System.out.println("Modified string is :" +  updateString.toString());
         }
-}
+	}
 
 

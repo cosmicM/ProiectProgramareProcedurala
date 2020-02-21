@@ -5,6 +5,22 @@ public class Imobil {
 	 private String tipCasa;
 	   private int nrEtaje;
 	   private double pret; 
+	   
+	   //constructor implicit
+	   public Imobil() {
+			
+			tipCasa = "";
+			nrEtaje = 0;
+			pret = 0.0;
+		}
+	   //constructor cu 1 parametru
+	   public Imobil(String tipCasa) {
+			
+			this.tipCasa = tipCasa;
+			nrEtaje = 0;
+			pret = 0.0;
+		}
+	   
 
 	public Imobil(String tipCasa, int nrEtaje, double pret) {
 		
